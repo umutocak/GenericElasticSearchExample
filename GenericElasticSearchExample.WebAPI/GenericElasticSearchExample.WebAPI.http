@@ -1,0 +1,6 @@
+@GenericElasticSearchExample.WebAPI_HostAddress = http://localhost:5283
+
+GET {{GenericElasticSearchExample.WebAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
